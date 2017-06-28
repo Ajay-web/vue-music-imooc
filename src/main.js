@@ -4,6 +4,8 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+let name = "ajay"
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
